@@ -1,4 +1,4 @@
-# mssql_datatable_api
+# mssql-manager-api
 
 Make sure you have Node.js installed.
 
